@@ -47,10 +47,6 @@ It provides a live dashboard showing signal status, traffic flow, and analytics 
 ## 👨‍💻 Created By  
 
 | Name | Register No. |
-|------|---------------|
-| **Peter Jijo Manavalan** | RA2411030010045 |
-| **Arhan Ashraf** | RA2410030010039 |
-| **Arjun Anil** | RA2411030010020 |
 | **K.A Abhinav** | RA2411030010056 |
 
 ---
