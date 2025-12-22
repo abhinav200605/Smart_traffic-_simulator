@@ -46,8 +46,7 @@ It provides a live dashboard showing signal status, traffic flow, and analytics 
 
 ## 👨‍💻 Created By  
 
-| Name | Register No. |
-| **K.A Abhinav** | RA2411030010056 |
+ **K.A Abhinav** 
 
 ---
 
@@ -55,7 +54,7 @@ It provides a live dashboard showing signal status, traffic flow, and analytics 
 
 ```bash
 # Clone this repository
-git clone https://github.com/Peterjijomanavalan/Smart-Traffic-Simulator.git
+git clone git@github.com:abhinav200605/Smart_traffic-_simulator.git
 
 # Open the project in IntelliJ IDEA or VS Code
 
