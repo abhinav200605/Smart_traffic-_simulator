@@ -6,25 +6,25 @@ A full-featured web application that simulates intelligent traffic management us
 
 ---
 
-## 📘 About  
+## About  
 
 The **Smart Traffic Simulator** models a smart intersection system that adapts to vehicle density and queue lengths.  
 It provides a live dashboard showing signal status, traffic flow, and analytics — giving insights into modern traffic optimization using AI-like logic.  
 
 ---
 
-## ⚙️ Features  
+##  Features  
 
-- 🚗 **Real-time Vehicle Simulation**  
-- 🕹 **Start / Stop Control for Traffic Flow**  
-- 📊 **Live Traffic Analytics Dashboard**  
-- 🧠 **Smart Signal Logic** (Automatic light switching based on traffic)  
-- 📈 **Data-Driven Reports** for intersection statistics  
-- 🌐 **Responsive Web Interface** (HTML, CSS, JavaScript frontend)  
+-  **Real-time Vehicle Simulation**  
+-  **Start / Stop Control for Traffic Flow**  
+-  **Live Traffic Analytics Dashboard**  
+-  **Smart Signal Logic** (Automatic light switching based on traffic)  
+-  **Data-Driven Reports** for intersection statistics  
+-  **Responsive Web Interface** (HTML, CSS, JavaScript frontend)  
 
 ---
 
-## 🧩 Tech Stack  
+##  Tech Stack  
 
 ### **Frontend**  
 - HTML5  
@@ -44,13 +44,13 @@ It provides a live dashboard showing signal status, traffic flow, and analytics 
 
 ---
 
-## 👨‍💻 Created By  
+##  Created By  
 
  **K.A Abhinav** 
 
 ---
 
-## 🚀 How to Run Locally  
+##  How to Run Locally  
 
 ```bash
 # Clone this repository
@@ -66,5 +66,5 @@ http://localhost:8080
 
 ```
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](LICENSE).
